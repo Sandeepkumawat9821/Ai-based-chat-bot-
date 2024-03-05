@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+  Aibot-webui:
+    image: Aibot-webui
+    container_name: Aibot-webui
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1338:1338"
