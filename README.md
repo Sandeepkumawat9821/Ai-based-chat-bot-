@@ -24,7 +24,7 @@ Experience the power of ChatGPT with a user-friendly interface, enhanced jailbre
   - [Running the Docker](#running-the-docker)
 - [Incorporated Projects](#incorporated-projects-busts_in_silhouette)
   - [WebUI](#webui) 
-  - [API FreeGPT](#api-g4f)
+  - [API ](#api-g4f)
 - [Star History](#star-history)
 - [Legal Notice](#legal-notice) 
 
@@ -41,7 +41,7 @@ git clone https://github.com/Sandeepkumawat9821/Ai-based-chat-bot-.git
 ### Install Dependencies :wrench: 
 Navigate to the project directory:
 ```
-cd freegpt-webui
+cd Ai-based-chat-bot-
 ```
 
 Install the dependencies:
@@ -71,12 +71,12 @@ Before you start, make sure you have installed [Docker](https://www.docker.com/g
 ### Running the Docker
 Pull the Docker image from Docker Hub:
 ```
-docker pull ramonvc/freegpt-webui
+docker pull Sandeepkumawat9821/Ai-based-chat-bot-
 ```
 
 Run the application using Docker:
 ```
-docker run -p 1338:1338 ramonvc/freegpt-webui
+docker run -p 1338:1338 Sandeepkumawat9821/Ai-based-chat-bot-
 ```
 
 Access the application in your browser using the URL:
