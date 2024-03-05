@@ -2,7 +2,7 @@
 # Free WebUI 
 ## GPT 3.5/4
 
-This project features a WebUI utilizing the [G4F API]([[https://github.com/xtekky/gpt4free](https://github.com/Sandeepkumawat9821/Ai-based-chat-bot)](https://github.com/Sandeepkumawat9821/Ai-based-chat-bot). <br>
+This project features a WebUI utilizing the [G4F API]((https://github.com/Sandeepkumawat9821/Ai-based-chat-bot)](https://github.com/Sandeepkumawat9821/Ai-based-chat-bot). <br>
 Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
 ##
